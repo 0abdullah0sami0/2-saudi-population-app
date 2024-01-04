@@ -1,0 +1,12 @@
+name: saudi-population-app
+title: saudi-population-app
+username: abdullah-hr
+account: abdullah-hr
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10864327
+bundleId: 8105302
+url: https://abdullah-hr.shinyapps.io/saudi-population-app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
