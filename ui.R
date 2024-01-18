@@ -9,7 +9,7 @@ dashboardPage(
     tags$head(
       tags$link(rel = "shortcut icon", href = "logo.ico")
     ),
-    navbarPage(title=img(id="logo", src="Good logo.png", style="width:100%;height:150%"),
+    navbarPage(title=div(img(id="logo", src="Good logo.png", style="width:8%;height:10%; position:relative;display:right-align;margin-top:-10px;")),
                theme = shinytheme("lumen"),
                windowTitle = "Saudi Arabia Population",
                tabPanel("عربي",
