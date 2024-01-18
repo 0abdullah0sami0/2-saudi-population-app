@@ -7,7 +7,7 @@ dashboardPage(
     setBackgroundColor(color = "#FFFFFF", shinydashboard = FALSE),
     setBackgroundColor(color = "#FFFFFF", shinydashboard = TRUE),
     tags$head(
-      tags$link(rel = "shortcut icon", href = "logo.ico")
+      tags$link(rel = "shortcut icon", href = "Good-logo.ico")
     ),
     navbarPage(title=div(img(id="logo", src="Good logo.png", style="width:8%;height:10%; position:relative;display:right-align;margin-top:-10px;")),
                theme = shinytheme("lumen"),
